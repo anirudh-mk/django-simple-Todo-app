@@ -1,0 +1,73 @@
+/* --------------------------------   LOGIN PAGE    ------------------------------------------ */
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Fredoka One', cursive;
+}
+
+.login-title{
+    padding: 1rem;
+}
+.card-body{
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+.logo{
+    text-align: center;
+}
+.todo_logo{
+    margin-top: 8rem;
+    width: 150px;
+}
+
+.login-card{
+    margin-top: 3rem;
+}
+.to{
+    color: #5BC0F8;
+}
+.do{
+    color: #0081C9;
+}
+.login-button{
+    background-color:  #0081C9;
+}
+.login-button:hover{
+    background-color: #5BC0F8;
+}
+
+
+/* ------------------------------------------------   REGISTRATION PAGE   ----------------------------------------- */
+
+
+.submit-button{
+    text-align: right;
+    padding: 1rem;
+
+}
+
+/* ------------------------------------------------   HOME PAGE   ----------------------------------------- */
+
+.navbar-logo{
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.body-container{
+    margin-top: 5rem;
+}
+.task-buttons{
+    text-align: right;
+}
+
+.scroll{
+    overflow: auto;
+}
+.card-home{
+    height: 40rem;
+}
